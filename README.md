@@ -6,9 +6,10 @@
 
 示例图片|[安装参考](https://www.bilibili.com/video/BV1514y1U7Uw/?vd_source=07bc57c14ff07a0d104533f8de5fb6d3)
 
-![image](https://github.com/niemingxing/douyinzhibo/assets/7400829/4b0b5553-d945-41ba-90a6-315460b770cc)
+<img width="1271" alt="image" src="https://github.com/niemingxing/tiktokzhibo/assets/7400829/34544539-0c41-46bb-b1f5-e2fa427b962f">
 
-![image](https://github.com/niemingxing/douyinzhibo/assets/7400829/4175ae1f-1643-4a94-8eaa-1ea498287a62)
+<img width="662" alt="image" src="https://github.com/niemingxing/tiktokzhibo/assets/7400829/2a221d08-3f34-4f66-a267-cf34b4a1654d">
+
 
 ### 交流方式：
 
